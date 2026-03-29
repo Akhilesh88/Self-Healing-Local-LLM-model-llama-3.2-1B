@@ -7,6 +7,21 @@
 ![License](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
+## 🎥 Demo
+## 🎥 Self-Healing Demo
+
+❌ Broken locator → ⚡ Auto-healed → ✅ Test passes
+
+![Demo](Assets/Gpt4all_Local_LLM.gif)
+## 🎥 Self-Healing Demo Screenshots
+![Project screenshots 1](Assets/Healer_js_Screenshot.png)
+![Project screenshots 2](Assets/TestScript_for_Prompt_Autohealing.png)
+
+##🎥 Video
+
+Github Link - ▶️ ![Demo Video of workflow](Assets/Day_1_of_the_GPT4All_local_Model_Auto_Healing.mp4)
+
+Youtube Link -▶️ [Watch Full Demo on YouTube](https://www.youtube.com/watch?v=oIAtOplikAM)
 
 ## 🚀 Overview
 
